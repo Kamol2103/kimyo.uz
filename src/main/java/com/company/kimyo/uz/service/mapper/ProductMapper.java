@@ -1,13 +1,12 @@
 package com.company.kimyo.uz.service.mapper;
 
-import com.company.kimyo.uz.Model.Product;
+import com.company.kimyo.uz.model.Product;
 import com.company.kimyo.uz.dto.ProductDto;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDateTime;
 
 @Component
-
 public abstract class ProductMapper {
     public ProductDto toDto(Product product){
         return ProductDto.builder()

@@ -1,14 +1,14 @@
 package com.company.kimyo.uz.service.mapper;
 
-import com.company.kimyo.uz.Model.Card;
 import com.company.kimyo.uz.dto.CardDto;
+import com.company.kimyo.uz.model.Card;
 import javax.annotation.processing.Generated;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-09-26T17:42:24+0500",
-    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 17.0.8 (Amazon.com Inc.)"
+    date = "2023-09-27T04:02:24+0500",
+    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 17.0.8.1 (Amazon.com Inc.)"
 )
 @Component
 public class CardMapperImpl extends CardMapper {

@@ -1,6 +1,6 @@
 package com.company.kimyo.uz.service;
 
-import com.company.kimyo.uz.Model.User;
+import com.company.kimyo.uz.model.User;
 import com.company.kimyo.uz.dto.ResponseDto;
 import com.company.kimyo.uz.dto.UserDto;
 import com.company.kimyo.uz.service.mapper.UserMapper;

@@ -1,4 +1,4 @@
-package com.company.kimyo.uz.Model;
+package com.company.kimyo.uz.model;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -6,24 +6,22 @@ import lombok.*;
 import java.time.LocalDateTime;
 import java.util.Set;
 
-@Data
 @Getter
 @Setter
 @Entity
-@AllArgsConstructor
 @Builder
-@Table(name = "users")
+@AllArgsConstructor
 @NoArgsConstructor
-
-
+@Table(name = "users")
 public class User {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer userId;
     private String firstname;
     private String lastname;
     private String email;
-    private String passsword;
+    private String password;
     private Integer age;
 
     private LocalDateTime createdAt;

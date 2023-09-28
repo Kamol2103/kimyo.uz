@@ -1,7 +1,7 @@
 
 package com.company.kimyo.uz.service.mapper;
 
-import com.company.kimyo.uz.Model.User;
+import com.company.kimyo.uz.model.User;
 import com.company.kimyo.uz.dto.UserDto;
 import org.mapstruct.*;
 import org.springframework.beans.factory.annotation.Autowired;

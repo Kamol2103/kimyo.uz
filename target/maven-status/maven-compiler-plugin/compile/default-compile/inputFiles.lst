@@ -1,24 +1,24 @@
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/CardMapper.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/ProductRepository.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/Model/User.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/CardDto.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/config/SimpleResponseDto.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/SimpleRequestCrud.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/UserController.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/ProductDto.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/Model/Product.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/CardController.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/UserMapper.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/ProductController.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/UserService.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/ProductMapper.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/UserDto.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/Model/Card.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/ProductService.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/util/SimpleCrud.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/ResponseDto.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/util/SimpleRequestCrud.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/service/CardService.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/CardRepository.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/Application.java
-/Users/fff/Desktop/Github/project/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/UserRepository.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/CardController.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/config/SimpleResponseDto.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/ProductDto.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/UserMapper.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/model/User.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/UserService.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/util/SimpleCrud.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/ProductMapper.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/Application.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/UserDto.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/SimpleRequestCrud.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/mapper/CardMapper.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/ProductRepository.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/model/Product.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/model/Card.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/util/SimpleRequestCrud.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/UserController.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/CardDto.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/UserRepository.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/CardService.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/dto/ResponseDto.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/repository/CardRepository.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/controller/ProductController.java
+/Users/hasanboy/IdeaProjects/Tiched Folder/Isystem Java Backend 7/kimyo.uz/src/main/java/com/company/kimyo/uz/service/ProductService.java

@@ -1,6 +1,6 @@
 package com.company.kimyo.uz.repository;
 
-import com.company.kimyo.uz.Model.Product;
+import com.company.kimyo.uz.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

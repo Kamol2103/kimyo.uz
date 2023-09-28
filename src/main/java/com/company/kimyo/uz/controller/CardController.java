@@ -15,7 +15,6 @@ import static com.company.kimyo.uz.config.SimpleResponseDto.convertStatusCodeByD
 @RestController
 @RequiredArgsConstructor
 @RequestMapping(value = "card")
-
 public class CardController implements SimpleRequestCrud<Integer, CardDto> {
     private final CardService cardService;
 

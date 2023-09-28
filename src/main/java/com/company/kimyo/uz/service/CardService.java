@@ -1,6 +1,6 @@
 package com.company.kimyo.uz.service;
 
-import com.company.kimyo.uz.Model.Card;
+import com.company.kimyo.uz.model.Card;
 import com.company.kimyo.uz.dto.CardDto;
 import com.company.kimyo.uz.dto.ResponseDto;
 import com.company.kimyo.uz.service.mapper.CardMapper;

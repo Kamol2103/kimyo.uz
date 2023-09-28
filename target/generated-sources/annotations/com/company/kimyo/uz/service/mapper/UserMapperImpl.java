@@ -1,15 +1,15 @@
 package com.company.kimyo.uz.service.mapper;
 
-import com.company.kimyo.uz.Model.User;
 import com.company.kimyo.uz.dto.UserDto;
+import com.company.kimyo.uz.model.User;
 import java.util.stream.Collectors;
 import javax.annotation.processing.Generated;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-09-26T17:42:24+0500",
-    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 17.0.8 (Amazon.com Inc.)"
+    date = "2023-09-27T04:02:23+0500",
+    comments = "version: 1.5.3.Final, compiler: javac, environment: Java 17.0.8.1 (Amazon.com Inc.)"
 )
 @Component
 public class UserMapperImpl extends UserMapper {
